@@ -1,22 +1,22 @@
 # NideSub
 
-**NideSub** — програма для створення та редагування субтитрів із простим інтерфейсом і зручною часовою шкалою.
+**NideSub** is a subtitle creation and editing program with a simple interface and an intuitive timeline.
 
-Головна особливість NideSub — можливість працювати із субтитрами безпосередньо на таймлайні: кожен субтитр відображається у вигляді окремого блока, який можна пересувати, щоб змінювати його час відображення.
+The main feature of NideSub is the ability to work with subtitles directly on the timeline. Each subtitle is displayed as a separate block that can be moved to adjust its timing.
 
-## Можливості
+## Features
 
-- **Створення та редагування субтитрів** — зручна робота з текстом і часом відображення.
-- **Часова шкала (Timeline)** — наочне відображення субтитрів у вигляді блоків, які можна пересувати.
-- **Експорт субтитрів** — збереження субтитрів у різних форматах.
-- **Експорт відео** — створення готового відео із субтитрами.
+- **Subtitle Creation and Editing** — easily work with subtitle text and timing.
+- **Timeline** — a visual representation of subtitles as movable blocks.
+- **Subtitle Export** — save subtitles in various formats.
+- **Video Export** — create a finished video with subtitles.
 
-## Підтримувані формати
+## Supported Formats
 
-**Формат проєкту:**
+**Project Format:**
 - `.nidesub`
 
-**Експорт субтитрів:**
+**Subtitle Export Formats:**
 - `.srt`
 - `.vtt`
 - `.ass`
@@ -24,22 +24,21 @@
 - `.sub`
 - `.ttml`
 
-## Завантаження
+## Download
 
-Завантажити NideSub можна зі сторінки проєкту на GitHub.
+You can download NideSub from the project's GitHub page.
 
-**Посилання на завантаження:** буде додано пізніше.
+**Download link:** to be added later.
 
-Програма постачається одним виконуваним файлом `.exe`, який запускає NideSub. Окремий інсталятор не потрібен.
+The program is distributed as a single `.exe` executable file that launches NideSub. No separate installer is required.
 
-## Ліцензія
+## License
 
-Умови використання програми визначені в ліцензійній угоді, яка додається до проєкту окремим файлом. 
+The terms of use are defined in the license agreement, which is included in the project as a separate file.
 
-Перед використанням програми ознайомтеся з умовами ліцензії.
+Please read the license agreement before using the program.
 
-## Автор
+## Author
 
 **NIDEDEN**  
-Денис Соболь
-
+Denys Sobol
