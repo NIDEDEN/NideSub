@@ -11,7 +11,7 @@ The main feature of NideSub is the ability to work with subtitles directly on th
 - **Subtitle Export** — save subtitles in various formats.
 - **Video Export** — create a finished video with subtitles.
 
-- ## Development Status and Translations
+## Development Status and Translations
 
 **NideSub is currently in Early Access (Beta Testing).**
 
