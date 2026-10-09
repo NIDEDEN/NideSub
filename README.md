@@ -11,6 +11,16 @@ The main feature of NideSub is the ability to work with subtitles directly on th
 - **Subtitle Export** — save subtitles in various formats.
 - **Video Export** — create a finished video with subtitles.
 
+- ## Development Status and Translations
+
+**NideSub is currently in Early Access (Beta Testing).**
+
+The program is still under development, so users may encounter bugs, crashes, or unexpected behavior in certain features. Some features may not work as intended or may not yet be fully implemented.
+
+It is recommended to regularly create backup copies of your projects and subtitle files.
+
+**Translations:** Ukrainian is the original language of the NideSub interface. Translations into other languages were created using artificial intelligence, so they may contain inaccuracies, errors, or unnatural phrasing.
+
 ## Supported Formats
 
 **Project Format:**
