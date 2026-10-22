@@ -37,6 +37,7 @@ It is recommended to regularly create backup copies of your projects and subtitl
 ## Download
 
 You can download NideSub from the project's GitHub page.
+
 [NideSub v1.1](https://github.com/NIDEDEN/NideSub/releases/tag/1.1)
 
 [NideSub v1.0](https://github.com/NIDEDEN/NideSub/releases/tag/subtitles)
